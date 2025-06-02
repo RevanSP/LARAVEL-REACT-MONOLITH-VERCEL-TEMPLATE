@@ -10,7 +10,7 @@
     "dest": "public/build/$1"
   },
   {
-    "src": "/(.*\\.(js|css|woff2|ttf|svg|png|jpg|jpeg|gif|ico|webp))",
+    "src": "/(.*\\.(js|css|woff2|ttf|svg|png|jpg|jpeg|gif|ico|webp|avif))",
     "headers": {
       "Content-Type": "auto"
     },
