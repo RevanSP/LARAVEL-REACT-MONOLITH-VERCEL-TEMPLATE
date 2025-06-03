@@ -85,6 +85,11 @@ const Home = () => {
                                 composer install
                             </code>
                         </li>
+                          <li>
+                            <code className="bg-[#1C232B] px-1 rounded">
+                                bun install
+                            </code>
+                        </li>
                         <li>
                             <code className="bg-[#1C232B] px-1 rounded">
                                 cp .env.example .env
